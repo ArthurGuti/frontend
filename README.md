@@ -1,16 +1,15 @@
-![git](https://github.com/ArthurGuti/Project-3D/assets/131212175/67dca253-fc4b-4a87-905f-287a1eb738bb)
+![logo](https://github.com/ArthurGuti/frontend/assets/131212175/64ef8eee-27ee-4e55-872d-039e8626a51c)
 # Full Stack Project - CRUD - Front end 
 ## 💻 Built in order to learn more about: TypeScript, Request Concepts and a fullstack project in practice.
 
-<img alt="Static Badge" src="https://img.shields.io/badge/dev%20-%20Arthur%20-%20Gutierrez?color=%23907bf2&link=www.linkedin.com%2Fin%2Farthur-gutierrez-de-oliveira-dev2110"> <br> 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f3da937e-4566-4b6f-b223-516d5b63cccd/deploy-status)]
+<img alt="Static Badge" src="https://img.shields.io/badge/dev%20-%20Arthur%20-%20Gutierrez?color=%23907bf2&link=www.linkedin.com%2Fin%2Farthur-gutierrez-de-oliveira-dev2110"> 
 
 <p align="center">
  <a href="#features"> 👉 Features</a> •
- <a href="#pré-requisitos"> 👉 Prerequisites</a> • 
- <a href="#tecnologias"> 👉 Technologies</a> • 
- <a href="#autor">👉 Author</a> •
- <a href="#saiba-mais">👉 Learn more</a>
+ <a href="#prerequisites"> 👉 Prerequisites</a> • 
+ <a href="#technologies"> 👉 Technologies</a> • 
+ <a href="#author">👉 Author</a> •
+ <a href="#learn-more">👉 Learn more</a>
 </p>
 
 # ✅Features
@@ -27,38 +26,40 @@
 ## Install dependencies
 $ npm install 
 
-## Install libs
-$ npm i @react-three/drei
-$ npm i @react-three/fiber
-
 ## Install TailwindCss
 $ npm i tailwindcss
 
 ## Run a application dev mode
 $ npm run dev
 
+## NOTE: It is highly recommended to be running the api and the front at the same time if your goal is to test in practice❗
+
 # 🛠Technologies
 
 The following tools were used in the construction of the project:
 
 - [React](https://pt-br.reactjs.org/)
-- [React-three/fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
-- [Node.js](https://nodejs.org/en/)
+- [Insomnia](https://nodejs.org/en/)
+- [MongoDB](https://nodejs.org/en/](https://www.mongodb.com/))
+- [Node.js](https://nodejs.org/en/](https://insomnia.rest/))
 - [TailwindCss](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [JS](https://vitejs.dev/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
+- [TS](https://vitejs.dev/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://www.typescriptlang.org/docs/))
+- [PostCss](https://vitejs.dev/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://www.typescriptlang.org/docs/)](https://postcss.org/))
 
 # 📝Learn-More
-React Three Fiber e React Three Drei são duas bibliotecas poderosas que permitem criar aplicações web 3D usando React. A escolha entre as duas bibliotecas depende de suas necessidades e preferências.
+TypeScript:
+A statically typed language that compiles to JavaScript.
+Improves readability, prevents errors, and makes code more robust.
+Requests in Node.js:
 
-Tips for getting started
+Modules like http and axios facilitate HTTP requests.
+They allow communication with APIs and other services.
+Combining TypeScript and Node.js:
 
-Se você está começando com React Three Fiber ou React Three Drei, aqui estão algumas dicas:
-
-- Comece com um tutorial ou exemplo.
-- Use o React Three Fiber Playground para experimentar diferentes recursos.
-- Coloque suas ideias no papel... digo... no código!
-- Decubra mais sobre arquivos [.GLB](https://imagetostl.com/pt/ver-glb-online)
+TypeScript ensures that request data is handled correctly.
+Makes code more reliable and simplifies API development.
 
 # 🧑‍💻Author
 <a href="https://github.com/ArthurGuti/">
