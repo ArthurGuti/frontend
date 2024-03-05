@@ -3,7 +3,7 @@
 ## 💻 Built in order to learn more about: TypeScript, Request Concepts and a fullstack project in practice.
 
 <img alt="Static Badge" src="https://img.shields.io/badge/dev%20-%20Arthur%20-%20Gutierrez?color=%23907bf2&link=www.linkedin.com%2Fin%2Farthur-gutierrez-de-oliveira-dev2110"> <br> 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f3da937e-4566-4b6f-b223-516d5b63cccd/deploy-status)](https://app.netlify.com/sites/project3d-arthur/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f3da937e-4566-4b6f-b223-516d5b63cccd/deploy-status)]
 
 <p align="center">
  <a href="#features"> 👉 Features</a> •
